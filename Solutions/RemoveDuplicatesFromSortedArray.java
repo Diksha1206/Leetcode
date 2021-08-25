@@ -1,4 +1,3 @@
-package Solutions;
 
 class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {

@@ -1,5 +1,3 @@
-package Solutions;
-
 class Plaindrome {
     public static boolean isPalindrome(int x) {
         int length = (int) (Math.log10(x) + 1);
