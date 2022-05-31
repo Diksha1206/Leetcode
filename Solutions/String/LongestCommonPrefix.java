@@ -1,3 +1,5 @@
+package String;
+
 public class LongestCommonPrefix {
     public String computerCommonPrefix(String string1, String string2) {
         String commonPrefix = "";

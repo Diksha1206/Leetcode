@@ -1,3 +1,5 @@
+package Arrays.StringArrays;
+
 import java.nio.charset.CharsetEncoder;
 
 public class Anagram {

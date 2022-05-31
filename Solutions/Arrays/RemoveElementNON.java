@@ -1,3 +1,5 @@
+package Arrays;
+
 public class RemoveElementNON {
 
     public static int removeElement(int[] nums, int val) {
