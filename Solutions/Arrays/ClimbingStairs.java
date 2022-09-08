@@ -13,7 +13,7 @@ public class ClimbingStairs {
     }
 
     public static void main(String args[]) {
-        int result = ClimbingStairs.climbStairs(2);
+        int result = ClimbingStairs.climbStairs(8);
         System.out.println(result);
     }
 
